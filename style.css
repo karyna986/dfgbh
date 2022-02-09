@@ -1,0 +1,36 @@
+.new--div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(60, 6, 158);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.box {
+    width: 900px;
+    height: 450px;
+    border: 1px solid rgb(82, 17, 17);
+    margin: 0 auto;
+    position: relative;
+}
+h1{
+    text-align: center;
+}
+.www {
+    width:  150px;
+    height: 50px;
+    background-color:rgb(7, 53, 151);
+    color: #fff;
+    margin: 20px ;
+    float: left;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.root {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
